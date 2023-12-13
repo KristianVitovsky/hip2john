@@ -12,9 +12,9 @@ a4 = 0.0157                                                     #the (B-V) cubic
 a5 = 0.0072                                                      #the connstant coeff
 saveV = ''   #choose the location and name of a .txt document with the final transformed data.
 saveB = ''
-flgmax = 1                                                    #all data with a higher Tflg will be eliminted from the final result
-fitBV  = 5						      #deggree of polynom used for fitting the B-V data
-fitUB  = 3                                                    #deggree of polynom used for fitting the U-B data
+flgmax = 1                                                    #all data with a higher Tflg will be eliminted from the final result.
+fitBV  = 5						      #deggree of polynom used for fitting the B-V data.
+fitUB  = 3                                                    #deggree of polynom used for fitting the U-B data.
 savenormbv = ''
 savenormub = ''
 #Now save and run with Python 2.
